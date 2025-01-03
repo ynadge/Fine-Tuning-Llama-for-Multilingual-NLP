@@ -6,6 +6,8 @@ This project aims to adapt Llama-2 to effectively generate fluent and culturally
 
 Hindi is the world's third-most spoken language. Giving it scale: approximately 8 in every hundred people speak Hindi! With such a large population of the world communicating and spending their day-to-day lives immersed in this language and its culture, it is disheartening that the availability of high-quality language models specifically trained on Hindi data remains a significant challenge.
 
+I've included all the details in my [project code](https://github.com/ynadge/Fine-Tuning-Llama-for-Multilingual-NLP/blob/main/Lamma_2_Hindi_Finetuned.ipynb).
+
 ## Key Technologies
 * sentencepiece: Fast, language-independent subword tokenizer that learns to split text into subword units directly from the data.
 * transformers: Comprehensive collection of pre-trained models, tokenizers, and utilities for state-of-the-art natural language processing tasks.
