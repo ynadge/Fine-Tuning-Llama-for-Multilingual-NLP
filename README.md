@@ -15,4 +15,4 @@ Hindi is the world's third-most spoken language. Giving it scale: approximately 
 * peft: Hugging Face library for easily training large language models with minimal computational cost.
 
 ## Future Work
-
+Language fluency is not the sole test of a model's ability to generate quality material in that language; it is also literary traditions. historical context, and so much more. Training this model on datasets that are geared towards all these different parts of the culture would make it truly relevant when generating Hindi text.
