@@ -14,7 +14,7 @@ Hindi is the world's third-most spoken language. Giving it scale: approximately 
 * nltk: Leading platform for building Python programs to work with human language data.
 * peft: Hugging Face library for easily training large language models with minimal computational cost.
 
-## Steps of the Project
+## Approach
 * Developed a Hindi language model using a 100,000-article dataset.
 * Employed SentencePiece for tokenization and extended the Llama tokenizer for enhanced performance.
 * Implemented a novel pre-training strategy: Combined translation-based pretraining with bilingual next-token prediction for improved multilingual capabilities.
